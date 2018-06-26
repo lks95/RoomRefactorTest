@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RoomProjekt</string>
+    <string name="projekt_name">Projekt Name</string>
+    <string name="arbeiter_name">Arbeiter Name</string>
+    <string name="save">Save</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="created_on">Created On</string>
+</resources>
